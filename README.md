@@ -23,4 +23,5 @@ The final output is a dashboard visualized in Kibana.
 ----------------------------------------------------------------------------------------
 
 Elasticsearch version 6.6.0
+
 Kibana version 6.6.0
